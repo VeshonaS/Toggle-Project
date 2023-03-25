@@ -1,0 +1,74 @@
+img {
+    width: 170px;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background-color: white;
+}
+
+h5 {
+    font-family: 'Happy Monkey', cursive;
+}
+
+.align {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+body {
+
+    background-color: lavender;
+}
+
+.close {
+    border-width: 10px;
+    border-style: groove;
+    padding: 8px;
+    border-color: darkgrey;
+}
+
+.align2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+
+.best {
+    text-align: center;
+    border-color: #AB8D3F;
+    border-style: inset;
+    border-width: 10px;
+    padding: 8px;
+}
+
+button {
+    border-radius: 10px;
+    font-family: 'Happy monkey', cursive;
+    width: 100px;
+}
+
+button:hover {
+    color: purple;
+    text-decoration: underline;
+}
+
+button:active {
+    color: blue;
+}
+
+#secret {
+    background-color: white;
+}
+
+.no-see{
+   display:none; 
+    }
+    
+.same{
+   width:200px; 
+    }
